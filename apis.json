@@ -1,0 +1,50 @@
+{
+    "name": "SafeDK",
+    "description": "SafeDK lets mobile app publishers build much better and safer apps through analyzing, monitoring and optimizing 3rd party SDKs in their app. SafeDK provides the first and only end-to-end SDKs management platform, which includes the following solutions:...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18962-safedk.jpg",
+    "tags": [
+        "have api",
+        "networks",
+        "sdks",
+        "tempsave"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/safedk\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "SafeDK",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18962-safedk.jpg",
+            "humanURL": "http:\/\/www.safedk.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/safedk-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.safedk.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/safedk"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GetSafeDK"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.safedk.com\/"
+        }
+    ]
+}
